@@ -1,0 +1,37 @@
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\Vergic_fetch.exe.config
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\Vergic_fetch.exe
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\Vergic_fetch.pdb
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.csprojResolveAssemblyReference.cache
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.exe
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.pdb
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\HtmlAgilityPack.dll
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\HtmlAgilityPack.pdb
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\HtmlAgilityPack.xml
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\steven.chong\documents\visual studio 2015\Projects\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.csproj.App.config
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\Vergic_fetch.exe.config
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\Vergic_fetch.exe
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\Vergic_fetch.pdb
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\HtmlAgilityPack.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\Microsoft.CSharp.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Data.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Extensions.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Primitives.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Xml.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Xml.Linq.dll
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\HtmlAgilityPack.pdb
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\HtmlAgilityPack.xml
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Extensions.xml
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\bin\Debug\System.Net.Http.Primitives.xml
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.csproj.App.config
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.csprojResolveAssemblyReference.cache
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.csproj.CoreCompileInputs.cache
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.exe
+D:\Vergic_fetch_SourceCode\Vergic_fetch\Vergic_fetch\obj\Debug\Vergic_fetch.pdb
